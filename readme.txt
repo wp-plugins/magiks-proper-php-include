@@ -12,13 +12,13 @@ Properly include PHP code into posts and pages, and maybe even widgets, in WordP
 
 MaGiKS Proper PHP Include lets you easily, quickly, efficiently and safely insert PHP code into posts, pages and / or widgets, without disabling the Visual Editor. You simply upload a php file containing your code into your theme folder and use a WordPress shortcode to "include" that file into your posts / pages / widgets.
 
-This plugin uses a filter to add shortcode capability for widgets in case that functionality isn't already present. If it is, then it is redundant, and I'm sorry.
+This plugin uses a filter to add shortcode capability for widgets in case that functionality isn't already present. If it is, then it is redundant, and I'm sorry ;)
 
 [MaGiKS Inc.](http://magiksinc.com/ "MaGiKS is where the magic happens")
 
 == Installation ==
 
-1. Upload `magiks-proper-php-include` folder to the `/wp-content/plugins/` directory
+1. Upload the `magiks-proper-php-include` folder to the `/wp-content/plugins/` directory
 1. Activate the plugin through the 'Plugins' menu in WordPress
 1. Create a .php file containing the code you want to "include" into your content
 1. Upload the .php file to your current theme folder - for easy updating later
@@ -36,24 +36,13 @@ No, you can add any HTML, JavaScript, etc. in there, with or without PHP, which 
 
 = Aren't there already plugins that do this? =
 
-Maybe. As far as the execution of PHP goes, I only found ones that either require the Visual Editor to be disabled, or claim that it doesn't. I have found in my testing that the ones that suggest you can leave the Visual Editor on did not work as desired for me. My code would still break. I don't use the Visual Editor anyways, but my clients do.
+Maybe. As far as the execution of PHP goes, I only found ones that either require the Visual Editor to be disabled, or claim that it doesn't. I have found in my testing that the ones that suggest you can leave the Visual Editor on did not work as desired for me. My code would still break. Not that I use the Visual Editor often, but my clients do. So to suggest turning it off to get plugins to work is just silly IMHO.
 
 = Are you a magician? =
 
 No, but thanks for asking.
 
-== Screenshots ==
-
-
-
 == Changelog ==
 
 = 0.1.1 =
 * Inital public release.
-
-== Upgrade Notice ==
-
-
-
-== Arbitrary section ==
-
